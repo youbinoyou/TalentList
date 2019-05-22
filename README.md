@@ -1,0 +1,2 @@
+# TalentList
+タレントリスト
